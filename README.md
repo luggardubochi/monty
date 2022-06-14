@@ -3,7 +3,7 @@
 # Installation:
 clone the repository
 
-https://github.com/Yunus-kidem/monty
+https://github.com/luggardubochi/monty
 
 compile with
 
